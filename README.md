@@ -75,25 +75,6 @@ pratik = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **The Alchemist** | Multi-agent AI system for mineral data exploration & visualization | LangChain · LangGraph · FastAPI · Plotly | [GitHub](https://github.com/prateekrauniyar345/Senior-Design-The-Alchemist) |
-| **IFC Forestry App** | Replaced legacy math models with H2O GBM ML for SDImax prediction - NSF REU | Flask · GBM · GeoTIFF · Python | [GitHub](https://github.com/prateekrauniyar345/ifc-dev) · [Demo](https://youtu.be/gj_Fzifr6mo) |
-| **Expenditure Dashboard** | Full-stack research budget analysis tool used by UofI stakeholders | React · FastAPI · MySQL · Azure OAuth | [GitHub](https://github.com/ui-insight/dashboard) · [Demo](https://youtu.be/B30J1-uMZ4w) |
-| **Valora** | Production-ready e-commerce platform with Stripe payments & RBAC | React · Node.js · MongoDB · Stripe | [GitHub](https://github.com/prateekrauniyar345/Valora) · [Live](https://valora-xi.vercel.app/) |
-| **Adobe Express Add-on** | Real-time data visualization add-on that embeds charts into Adobe docs | React · Observable Plot · Adobe API | [GitHub](https://github.com/prateekrauniyar345/adobe-first-add-on) · [Demo](https://youtu.be/PggIycNCtx8) |
-| **VoiceED Ally** | Voice-first AI learning companion for users with disabilities | React · ElevenLabs · Vertex AI Gemini · Flask | [GitHub](https://github.com/prateekrauniyar345/AI-Partner-Catalyst-Accelerate-Innovation) |
-| **Bitcoin Price Predictor** | LSTM/GRU deep learning model for next-day BTC price forecasting | TensorFlow · Keras · Flask · Python | [GitHub](https://github.com/prateekrauniyar345/Bitcoin-Price-Prediction-Model) |
-| **Grant Budget Generator** | NSF/NIH multi-year budget planner with Excel export & analytics | Flask · Dash · PostgreSQL · SQLAlchemy | [GitHub](https://github.com/prateekrauniyar345/grant-budget-manager) · [Live](https://grant-budget-manager.onrender.com/) |
-
-</div>
-
 
 ---
 
