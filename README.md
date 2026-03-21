@@ -25,7 +25,7 @@
 ```python
 pratik = {
     "education":   "B.S. Computer Science @ University of Idaho (GPA: 3.60 | May 2026)",
-    "research":    "NSF REU @ Intermountain Forestry Cooperative — ML for forestry science",
+    "research":    "NSF REU @ Intermountain Forestry Cooperative - ML for forestry science",
     "current_role":"Software Engineering Assistant @ RCDS/IIDS, University of Idaho",
     "interests":   ["Agentic AI & LLM Systems", "Full-Stack Engineering", "ML / Deep Learning", "AWS & Cloud"],
     "location":    "Moscow, Idaho, USA",
@@ -38,10 +38,10 @@ pratik = {
 
 ## What I'm Currently Working On
 
-- **Agentic AI** — Multi-agent orchestration with LangChain, LangGraph & LangSmith
-- **AWS** — Deep-diving into IAM, EC2, VPC, S3, and cloud-native architectures
-- **ML / Deep Learning** — Adversarial ML coursework + building forecasting models  
-- **Full-Stack** — React + FastAPI production apps for university research tools
+- **Agentic AI** - Multi-agent orchestration with LangChain, LangGraph & LangSmith
+- **AWS** - Deep-diving into IAM, EC2, VPC, S3, and cloud-native architectures
+- **ML / Deep Learning** - Adversarial ML coursework + building forecasting models  
+- **Full-Stack** - React + FastAPI production apps for university research tools
 
 ---
 
@@ -84,7 +84,7 @@ pratik = {
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **The Alchemist** | Multi-agent AI system for mineral data exploration & visualization | LangChain · LangGraph · FastAPI · Plotly | [GitHub](https://github.com/prateekrauniyar345/Senior-Design-The-Alchemist) |
-| **IFC Forestry App** | Replaced legacy math models with H2O GBM ML for SDImax prediction — NSF REU | Flask · GBM · GeoTIFF · Python | [GitHub](https://github.com/prateekrauniyar345/ifc-dev) · [Demo](https://youtu.be/gj_Fzifr6mo) |
+| **IFC Forestry App** | Replaced legacy math models with H2O GBM ML for SDImax prediction - NSF REU | Flask · GBM · GeoTIFF · Python | [GitHub](https://github.com/prateekrauniyar345/ifc-dev) · [Demo](https://youtu.be/gj_Fzifr6mo) |
 | **Expenditure Dashboard** | Full-stack research budget analysis tool used by UofI stakeholders | React · FastAPI · MySQL · Azure OAuth | [GitHub](https://github.com/ui-insight/dashboard) · [Demo](https://youtu.be/B30J1-uMZ4w) |
 | **Valora** | Production-ready e-commerce platform with Stripe payments & RBAC | React · Node.js · MongoDB · Stripe | [GitHub](https://github.com/prateekrauniyar345/Valora) · [Live](https://valora-xi.vercel.app/) |
 | **Adobe Express Add-on** | Real-time data visualization add-on that embeds charts into Adobe docs | React · Observable Plot · Adobe API | [GitHub](https://github.com/prateekrauniyar345/adobe-first-add-on) · [Demo](https://youtu.be/PggIycNCtx8) |
