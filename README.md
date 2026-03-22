@@ -25,12 +25,12 @@
 ```python
 pratik = {
     "education":   "B.S. Computer Science @ University of Idaho (GPA: 3.60 | May 2026)",
-    "research":    "NSF REU @ Intermountain Forestry Cooperative - ML for forestry science",
-    "current_role":"Software Engineering Assistant @ RCDS/IIDS, University of Idaho",
+    "research":   "NSF REU @ Intermountain Forestry Cooperative - ML for forestry science",
+    "current_role":   "Software Engineering Assistant @ RCDS/IIDS, University of Idaho",
     "interests":   ["Agentic AI & LLM Systems", "Full-Stack Engineering", "ML / Deep Learning", "AWS & Cloud"],
-    "location":    "Moscow, Idaho, USA",
-    "current_focus": "Building multi-agent AI systems + exploring AWS cloud infrastructure",
-    "fun_fact":    "I replaced math equations with ML models for forestry science",
+    "location":   "Moscow, Idaho, USA",
+    "current_focus":   "Building multi-agent AI systems + exploring AWS cloud infrastructure",
+    "fun_fact":   "I replaced math equations with ML models for forestry science",
 }
 ```
 
