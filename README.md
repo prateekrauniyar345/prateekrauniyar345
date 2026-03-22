@@ -106,6 +106,11 @@ pratik = {
 
 ---
 
+## 🏆 GitHub Trophies
+![Trophy](./profile/trophy.svg)
+
+---
+
 
 <div align="center">
 
